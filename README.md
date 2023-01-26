@@ -19,7 +19,7 @@ Double buffered, impedance matched, no vertical lines VGA adapter for all Amigas
 - Smaller than the original 390682-01/03 VGA dongle by commodore
 
 
-![Image of RGB2VGA2-01](https://github.com/EmberHeavyIndustries/AMI-RGB2VGAPLUS/blob/master/Docs/RGB2VGA2_1s.JPG)
+![Image of RGB2VGA2-01](https://github.com/EmberHeavyIndustries/AMI-RGB2VGAPLUS/blob/main/Docs/RGB2VGA2_1s.JPG)
 
 ## YAKS2-TITUO FLAVORS
 
