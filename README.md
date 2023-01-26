@@ -23,6 +23,8 @@ Double buffered, impedance matched, no vertical lines VGA adapter for all Amigas
 
 # SCHEMATICS
 
+Full schematics can be found here
 
+[Schematics](https://github.com/EmberHeavyIndustries/AMI-RGB2VGAPLUS/blob/main/Hardware/Schematic_RGB2VGA_V2_2023-01-26.pdf)
 
 
