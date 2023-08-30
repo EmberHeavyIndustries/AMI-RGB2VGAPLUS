@@ -26,6 +26,7 @@ The pcb can be fitted with either TI7316 (as in the BOM) or with TI7314 (or any 
 Both the 7314 and 7316 are virtually identical, except for the analog video “low-pass” filter. 
 
 7316 has a low pas filter with 36Mhz rolloff, which makes it best fitting for resolutions as up to 720p/1080i and AGA machines (if speaking of Commodore Amiga)
+
 7314 has a low pas filter with 7,5Mhz rolloff, which makes it best fitting for lower resolutions and best fits OCS/ECS machines (but of course with some loss in details on higher resolutions)
 
 ![Image of RGB2VGA2-01](https://github.com/EmberHeavyIndustries/AMI-RGB2VGAPLUS/blob/main/Docs/RGB2VGAPLUS_small,jpg.jpg)
