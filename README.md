@@ -16,7 +16,7 @@ Double buffered, impedance matched, no vertical lines VGA adapter for all Amigas
 - Fully buffered Composite HSync and VSync signals
 - Impedance matched inputs and outputs
 - Fully high quality buffered video signals
-- Fully filtered spurious input frequencies: no more vertical barrels on LCD screens !
+- Fully filtered spurious input frequencies: no more vertical bars on LCD screens !
 - Smaller than the original 390682-01/03 VGA dongle by commodore
 
 # NOTE for makers:
