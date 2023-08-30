@@ -15,9 +15,18 @@ Double buffered, impedance matched, no vertical lines VGA adapter for all Amigas
 
 - Fully buffered Composite HSync and VSync signals
 - Impedance matched inputs and outputs
-- Fully high quality buffered video signals 
+- Fully high quality buffered video signals
+- Fully filtered spurious input frequencies: no more vertical barrels on LCD screens !
 - Smaller than the original 390682-01/03 VGA dongle by commodore
 
+# NOTE for makers:
+
+The pcb can be fitted with either TI7316 (as in the BOM) or with TI7314 (or any other else 1:1 pin compatible video filter/amplifier chip, there are plenty of them on the market)
+
+Both the 7314 and 7316 are virtually identical, except for the analog video “low-pass” filter. 
+
+7316 has a low pas filter with 36Mhz rolloff, which makes it best fitting for resolutions as up to 720p/1080i and AGA machines (if speaking of Commodore Amiga)
+7314 has a low pas filter with 7,5Mhz rolloff, which makes it best fitting for lower resolutions and best fits OCS/ECS machines (but of course with some loss in details on higher resolutions)
 
 ![Image of RGB2VGA2-01](https://github.com/EmberHeavyIndustries/AMI-RGB2VGAPLUS/blob/main/Docs/RGB2VGAPLUS_small,jpg.jpg)
 
