@@ -40,4 +40,5 @@ Full schematics can be found here
 # MAKER's FILES
 
 [Full RGB2VGAPLUS BOM](https://github.com/EmberHeavyIndustries/AMI-RGB2VGAPLUS/blob/main/Hardware/BOM_PCB_RGB2VGA_V2_2023-01-01.csv) and [GERBER files](https://github.com/EmberHeavyIndustries/AMI-RGB2VGAPLUS/blob/main/Hardware/Gerber_PCB_RGB2VGA_V2_2023-01-01.zip) can be freely downloaded.
+Also check PIck&Place report inside the Hardware directory, if needed
 
